@@ -1,0 +1,9 @@
+.Tiempo {
+    min-height: 84vh;
+    height: fit-content;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
