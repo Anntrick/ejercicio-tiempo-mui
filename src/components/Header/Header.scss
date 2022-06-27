@@ -1,0 +1,18 @@
+@import '../../variables.scss';
+
+.Header {
+    height: 8vh;
+    display: flex;
+    width: 100%;
+    background-color: $primary;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+   
+    a {
+        box-sizing: border-box;
+        margin: 2em;
+        text-decoration: none;
+        color: white;
+    }
+}

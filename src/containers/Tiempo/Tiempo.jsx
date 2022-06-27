@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import axios from 'axios'
 import WeatherCard from '../../components/WeatherCard/WeatherCard'
 
-import './Tiempo.css'
+import './Tiempo.scss'
 
 const Tiempo = props => {
     let [weather, setWeather] = useState([])

@@ -4,7 +4,7 @@ import Header from './components/Header/Header'
 import Footer from './components/Footer/Footer'
 import Tiempo from './containers/Tiempo/Tiempo'
 
-import './App.css'
+import './App.scss'
 
 function App() {
   return (

@@ -1,11 +1,12 @@
+@import '../../variables.scss';
+
 .Footer {
     height: 8vh;
     display: flex;
     width: 100%;
-    background-color: #A65314;
+    background-color: $primary;
     flex-direction: row;
     align-items: center;
     justify-content: center;
     color: white;
-   
 }
